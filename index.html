@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- OWL CARROUSEL -->
+   <link rel="stylesheet" href="./owl.carousel.css"  />
+   <link rel="stylesheet" href="./owl.theme.default.css" />
+   <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="./main.css">
+    <title>Instagram</title>
+
+</head>
+<body>
+    <div class="main-wrapper ">
+       <div class="phone-column col">
+           <div class="phone">
+               <div class="slider owl-carousel owl-theme">
+                <div class="item"><img src="/img/slide-1.jpg" alt=""></div>
+                <div class="item"><img src="/img/slide-2.jpg" alt=""></div>
+                <div class="item"><img src="/img/slide-3.jpg" alt=""></div>
+               </div>
+           </div>
+       </div>
+       <div class="login-column col">
+           login
+       </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <!-- OWL CARROUSEL JS -->
+    <script src="./owl.carousel.js"></script>
+    <script >
+    $('.owl-carousel').owlCarousel({
+        animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    autoplay:true,
+    autoplayTimeout:2000,
+    loop:true,
+    margin:10,
+    nav:false,
+    dots:false,
+    responsive:{
+        0:{
+            items:1
+        }
+    }
+})
+    </script>
+</body>
+</html>
