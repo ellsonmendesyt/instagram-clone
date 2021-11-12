@@ -1,12 +1,13 @@
 
 
-# Clone da pagina inicial do Instagram | Instagram initial page clone  🙃
+# Clone da pagina inicial do Instagram | Instagram initial page clone  🙃  
+Esse projeto faz parte de uma tarefa do  bootcamp HTML Web Developer
 
-### Os requisitos são:
+### Links Úteis:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [youtube](https://youtu.be/wxVEYwFr6RA)
+* [Linkedin](https://www.linkedin.com/in/elsonmendesyt)
+* [DIO](https://digitalinnovation.one/sign-up?ref=I1DBT805X2)
 
 
 
