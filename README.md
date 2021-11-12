@@ -8,4 +8,10 @@
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+
+
+## 🚀 Preview 🚀
+
+
+
+![Alt Text](https://github.com/ellsonmendesyt/instagram-clone/blob/master/DIO.gif)
